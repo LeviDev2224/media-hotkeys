@@ -1,4 +1,5 @@
 # Media Hotkeys
+[![Language: Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 **Control background music and videos without switching windows.**
 
@@ -73,3 +74,6 @@ Together, these allow media playback to be controlled without manually switching
 ## License
 
 See [LICENSE](LICENSE) for details.
+
+##Author
+* **LeviDev2224** - *Developer* - [GitHub Profile](https://github.com/LeviDev2224)
